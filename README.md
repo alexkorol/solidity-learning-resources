@@ -42,3 +42,8 @@ https://github.com/scaffold-eth/scaffold-eth
 
 Solidity smart contract bug detection repository:
 https://github.com/nedasma/solidity-vuln-tests
+
+Books:
+https://www.manning.com/books/blockchain-in-action#toc
+
+https://www.manning.com/books/exploring-ethereum-dapps?query=ethereum
