@@ -4,6 +4,12 @@ This repository is a collection of links and resources hand-picked to make learn
 
 The links are organized in order from beginner tutorials to more advanced concepts.
 
+Roadmap to learning solidity:
+https://cryptodevhub.io/wiki/blockchain-development-tutorial
+
+Solidity Docs cheatsheet:
+https://docs.soliditylang.org/en/latest/cheatsheet.html
+
 Web Tutorials:
 
 CryptoZombies is a free, open source, interactive code school that teaches you to build games on Ethereum. 
@@ -12,7 +18,6 @@ https://cryptozombies.io/
 
 BuildSpace will have you building a complete Web3 project with a community of learners: 
 https://buildspace.so/
-
 
 Telegram Groups:
 
@@ -44,6 +49,19 @@ Solidity smart contract bug detection repository:
 https://github.com/nedasma/solidity-vuln-tests
 
 Books:
+
+Mastering Ethereum:
+https://github.com/ethereumbook/ethereumbook
+
 https://www.manning.com/books/blockchain-in-action#toc
 
 https://www.manning.com/books/exploring-ethereum-dapps?query=ethereum
+
+Youtube:
+
+Moralis is a web3 development platform that makes it easier to deploy your projects:
+https://www.youtube.com/playlist?list=PLFPZ8ai7J-iTJDENUIY40VsU_5Wmxkr7j
+
+Will It Scale Solidity tutorial videos: 
+https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg
+
