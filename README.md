@@ -65,3 +65,5 @@ https://www.youtube.com/playlist?list=PLFPZ8ai7J-iTJDENUIY40VsU_5Wmxkr7j
 Will It Scale Solidity tutorial videos: 
 https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg
 
+Faucets:
+https://github.com/Anish-Agnihotri/MultiFaucet
